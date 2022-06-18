@@ -1,4 +1,4 @@
-# Panther.co-navbar-with-only-Bootstrap
+# Panther.co navbar with only Bootstrap
 ### Made only using Bootstrap
 
 **Full width**
